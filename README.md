@@ -3,8 +3,10 @@ ants_tribe
 
 a math-simulation of a tribe (alfa ver)
 
-june 04| base of project was maden; first object 'ant' was maden; 
-june 05| arrays of objects were added; live-logic (behavior) was started
+//june 04| base of project was maden; first object 'ant' was maden; 
+
+//june 05| arrays of objects were added; live-logic (behavior) was started
+
 june 06| personal logic was corrected; test collisions were started;
 june 07| ant-info, change_color-func was added; transpositions fixed; ants appear in a sort-order
        | rezoh takes part in the project, making collisions in a proper way                          
