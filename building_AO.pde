@@ -40,7 +40,6 @@ int freeID()
 }
 
 
-
 void dochild(int p1, int p2)
 {
   // p1 & p2 - ID's of parents
@@ -60,7 +59,6 @@ void dochild(int p1, int p2)
 
     // 4) make a child
     //trb[i] = new AO( x, y, s, zer, i);
-
 
     trb[i].abl = abl0;
     trb[i].sq = sq0;
@@ -103,7 +101,6 @@ void opinion(int j)
   //            1    not bad
   //            2    friends
 }
-
 
 
 void collis(int id)
