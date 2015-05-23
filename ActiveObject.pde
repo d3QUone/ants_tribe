@@ -23,7 +23,6 @@ class AO
 
   float[] mem = new float[10];  // opinion about each other
 
-
   AO(float x, float y, int d, color t, int n)
   {
     D = d;     // the diametr of a circle body
